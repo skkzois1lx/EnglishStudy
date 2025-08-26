@@ -1,55 +1,55 @@
-字母	常见音标			示例单词
-A	/æ/, /eɪ/, /ɑː/		cat /kæt/, make /meɪk/, father /ˈfɑːðər/
-B	/b/			boy /bɔɪ/
-C	/k/, /s/		cat /kæt/, city /ˈsɪti/
-D	/d/			dog /dɔg/
-E	/e/, /iː/, /ə/		bed /bed/, he /hiː/, taken /ˈteɪkən/
-F	/f/			fish /fɪʃ/
-G	/g/, /dʒ/		go /goʊ/, gem /dʒem/
-H	/h/			hat /hæt/
-I	/ɪ/, /aɪ/, /iː/	sit /sɪt/, like /laɪk/, police /pəˈliːs/
-J	/dʒ/			jump /dʒʌmp/
-K	/k/			king /kɪŋ/
-L	/l/			lamp /læmp/
-M	/m/			man /mæn/
-N	/n/			net /net/
-O	/ɒ/, /oʊ/, /ɔː/		hot /hɒt/, go /goʊ/, more /mɔːr/
-P	/p/			pen /pen/
-Q	/kw/			queen /kwiːn/
-R	/r/			red /red/
-S	/s/, /z/		sun /sʌn/, is /ɪz/
-T	/t/, /tʃ/		top /tɒp/, nature /ˈneɪtʃər/
-U	/ʌ/, /uː/, /juː/	cup /kʌp/, blue /bluː/, use /juːz/
-V	/v/			van /væn/
-W	/w/			wet /wɛt/
-X	/ks/, /gz/		box /bɒks/, exam /ɪgˈzæm/
-Y	/j/, /aɪ/, /iː/	yes /jɛs/, my /maɪ/, happy /ˈhæpi/
-Z	/z/			zoo /zuː/
+字母	            常见音标			          示例单词
+A	              /æ/, /eɪ/, /ɑː/		    cat /kæt/, make /meɪk/, father /ˈfɑːðər/
+B	              /b/			              boy /bɔɪ/
+C	              /k/, /s/		          cat /kæt/, city /ˈsɪti/
+D	              /d/			              dog /dɔg/
+E	              /e/, /iː/, /ə/		    bed /bed/, he /hiː/, taken /ˈteɪkən/
+F	              /f/			              fish /fɪʃ/
+G	              /g/, /dʒ/		          go /goʊ/, gem /dʒem/
+H	              /h/			              hat /hæt/
+I	              /ɪ/, /aɪ/, /iː/	      sit /sɪt/, like /laɪk/, police /pəˈliːs/
+J	              /dʒ/			            jump /dʒʌmp/
+K              	/k/			              king /kɪŋ/
+L	              /l/			              lamp /læmp/
+M	              /m/			              man /mæn/
+N              	/n/			              net /net/
+O	              /ɒ/, /oʊ/, /ɔː/		    hot /hɒt/, go /goʊ/, more /mɔːr/
+P	              /p/			              pen /pen/
+Q	              /kw/			            queen /kwiːn/
+R	              /r/			              red /red/
+S	              /s/, /z/		          sun /sʌn/, is /ɪz/
+T	              /t/, /tʃ/		          top /tɒp/, nature /ˈneɪtʃər/
+U	              /ʌ/, /uː/, /juː/	    cup /kʌp/, blue /bluː/, use /juːz/
+V	              /v/			              van /væn/
+W	              /w/			              wet /wɛt/
+X	              /ks/, /gz/		        box /bɒks/, exam /ɪgˈzæm/
+Y	              /j/, /aɪ/, /iː/	      yes /jɛs/, my /maɪ/, happy /ˈhæpi/
+Z	              /z/			              zoo /zuː/
 
 
-字母组合	音标			示例
-CH	/tʃ/			chair /tʃɛər/
-SH	/ʃ/			ship /ʃɪp/
-TH	/θ/, /ð/		think /θɪŋk/, this /ðɪs/
-PH	/f/			phone /foʊn/
-GH	/g/, /f/, /-/		ghost /goʊst/, laugh /læf/, though /ðoʊ/
-NG	/ŋ/			sing /sɪŋ/
-WH	/w/			what /wɒt/
-QU	/kw/			quick /kwɪk/
-OO	/uː/, /ʊ/		food /fuːd/, book /bʊk/
-EA	/iː/, /ɛ/		eat /iːt/, bread /brɛd/
-AI	/eɪ/			rain /reɪn/
-AY	/eɪ/			day /deɪ/
-OA	/oʊ/			boat /boʊt/
-IE	/aɪ/, /iː/		pie /paɪ/, chief /tʃiːf/
-EE	/iː/			see /siː/
-EI	/iː/, /eɪ/		ceiling /ˈsiːlɪŋ/, vein /veɪn/
-OU	/aʊ/, /ʌ/		out /aʊt/, country /ˈkʌntri/
-OW	/aʊ/, /oʊ/		now /naʊ/, snow /snoʊ/
-AU	/ɔː/			autumn /ˈɔːtəm/
-AW	/ɔː/			saw /sɔː/
-ER	/ɜːr/			her /hɜːr/
-OR	/ɔːr/			for /fɔːr/
-UR	/ɜːr/			burn /bɜːrn/
-OO	/uː/, /ʊ/		boot /buːt/, book /bʊk/
-Y (结尾)	/iː/			happy /ˈhæpi/
+字母组合	        音标			              示例
+CH	            /tʃ/			            chair /tʃɛər/
+SH	            /ʃ/			              ship /ʃɪp/
+TH	            /θ/, /ð/		          think /θɪŋk/, this /ðɪs/
+PH	            /f/		  	            phone /foʊn/
+GH	            /g/, /f/, /-/		      ghost /goʊst/, laugh /læf/, though /ðoʊ/
+NG	            /ŋ/			              sing /sɪŋ/
+WH            	/w/			              what /wɒt/
+QU	            /kw/			            quick /kwɪk/
+OO	            /uː/, /ʊ/		          food /fuːd/, book /bʊk/
+EA	            /iː/, /ɛ/		          eat /iːt/, bread /brɛd/
+AI	            /eɪ/			            rain /reɪn/
+AY	            /eɪ/			            day /deɪ/
+OA	            /oʊ/			            boat /boʊt/
+IE	            /aɪ/, /iː/		        pie /paɪ/, chief /tʃiːf/
+EE	            /iː/			            see /siː/
+EI	            /iː/, /eɪ/		        ceiling /ˈsiːlɪŋ/, vein /veɪn/
+OU	            /aʊ/, /ʌ/		          out /aʊt/, country /ˈkʌntri/
+OW	            /aʊ/, /oʊ/		        now /naʊ/, snow /snoʊ/
+AU	            /ɔː/			            autumn /ˈɔːtəm/
+AW	            /ɔː/			            saw /sɔː/
+ER	            /ɜːr/			            her /hɜːr/
+OR	            /ɔːr/			            for /fɔːr/
+UR	            /ɜːr/			            burn /bɜːrn/
+OO	            /uː/, /ʊ/		          boot /buːt/, book /bʊk/
+Y (结尾)	        /iː/			            happy /ˈhæpi/
