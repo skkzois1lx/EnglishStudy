@@ -1,0 +1,47 @@
+音标	类型		常见字母/字母组合	         示例单词
+/iː/	单元音		e, ee, ea, ie, ei	 see, seat, chief, receive
+/ɪ/	单元音		i, y, e	                 sit, myth, pretty
+/e/	单元音		e, ea	                 bed, bread
+/æ/	单元音		a, ai, au	         cat, plaid, laugh
+/ʌ/	单元音		u, o, ou	         cup, come, trouble
+/ɜː/	单元音		er, ir, ur, or		 her, bird, turn, word
+/ə/	单元音（弱读）	a, e, i, o, u		 about, problem, pencil
+/ɔː/	单元音		a, aw, au, or, o	 saw, autumn, for, talk
+/ɒ/	单元音		o, a			 hot, want
+/uː/	单元音		u, oo, ou		 blue, food, group
+/ʊ/	单元音		u, oo			 put, book
+/eɪ/	双元音		a, ai, ay, ei, ea	 make, rain, day, vein, great
+/aɪ/	双元音		i, y, ie, igh		 my, pie, night, high
+/ɔɪ/	双元音		oi, oy			 coin, boy
+/aʊ/	双元音		ou, ow			 out, now
+/əʊ/	双元音		o, oa, ow		 go, boat, show
+/ɪə/	双元音		ear, eer, ier		 hear, deer, pier
+/eə/	双元音		air, are, ere		 hair, care, there
+/ʊə/	双元音		ure, our		 pure, tour
+/juː/	双元音		u, ue, eu, ew		 use, cute, feud, few
+
+音标	类型		常见字母/字母组合		 示例单词
+/p/	清辅音		p			 pen, spin
+/b/	浊辅音		b			 bat, bubble
+/t/	清辅音		t			 top, stop
+/d/	浊辅音		d			 dog, ladder
+/k/	清辅音		c, k, ck, ch		 cat, king, back, chorus
+/g/	浊辅音		g, gh			 go, ghost
+/tʃ/	清辅音		ch, tch			 chair, match
+/dʒ/	浊辅音		j, g, dg		 jump, gem, bridge
+/f/	清辅音		f, ff, ph		 fun, off, phone
+/v/	浊辅音		v, ve			 van, have
+/θ/	清辅音		th			 think, both
+/ð/	浊辅音		th			 this, father
+/s/	清辅音		s, ss, c, sc		 see, pass, city, science
+/z/	浊辅音		z, zz, s, x		 zoo, buzz, is, exists
+/ʃ/	清辅音		sh, s, ss, ch		 ship, sure, mission, chef
+/ʒ/	浊辅音		s, g, ge		 vision, genre, mirage
+/h/	清辅音		h			 hat, behind
+/m/	浊辅音		m, mm			 man, summer
+/n/	浊辅音		n, nn, kn, gn		 net, winner, know, gnaw
+/ŋ/	浊辅音		ng, n			 sing, finger
+/l/	浊辅音		l, ll			 lamp, full
+/r/	浊辅音		r, rr, wr		 red, sorry, write
+/j/	浊辅音		y, i, j			 yes, million, onion
+/w/	浊辅音		w, wh			 wet, what
